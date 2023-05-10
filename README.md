@@ -1,4 +1,4 @@
-# DGAT-LPS:  A new semi-supervised fault diagnosis method called dynamic graph attention network witg label propagation strategy
+# DGAT-LPS:  A new semi-supervised fault diagnosis method called dynamic graph attention network with label propagation strategy
 * Core codes for the paper ["Semi-supervised fault diagnosis of machinery using LPS-DGAT under speed  fluctuation and extremely low labeled rates"](https://www.sciencedirect.com/science/article/abs/pii/S1474034622001124)
 * Created by Shen Yan, Haidong Shao, Yiming Xiao, Jian Zhou, Yuandong Xu and Jiafu Wan.
 * Journal: Advanced Engineering Informatics
